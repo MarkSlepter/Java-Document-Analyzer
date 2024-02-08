@@ -1,5 +1,3 @@
-# TeachMeSkills_C26_Lesson_14_HW
-This repository contains my homework assignment number 14
 # Task 1
 Let's say there is a file with document numbers.
 The document number is a string consisting of letters and numbers (without service characters).
